@@ -2,4 +2,20 @@
 
 How to download, edit, rebuild and push to master
 
-<<coming soon>>
+git clone https://github.com/patrickmaynard/front-page.git
+
+cd front-page
+
+rm -rf *.html
+
+<< make your edits here. >>
+
+gulp
+
+git add *
+
+git commit -m 'Describe your recent changes here so the team knows what you changed'
+
+git push -u origin master
+
+
