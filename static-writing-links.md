@@ -10,6 +10,8 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://www.metrotimes.com/detroit/grosse-ile-uses-cameras-to-track-vehicle-locations-and-its-not-alone/Content?oid=19584612
+
 https://this.org/2017/08/28/should-canadians-live-on-former-industrial-sites/
 
 http://www.baltimoremagazine.com/2016/9/27/eight-hours-on-baltimores-lone-subway-line
