@@ -1,0 +1,48 @@
+# Use PHPBETA as default
+AddHandler application/x-httpd-phpbeta .php
+
+
+Redirect 301 /plugins http://designonroland.blogspot.com/2009/08/i-made-wordpress-plug-in.html
+Redirect 301 /print http://patrickmaynard.com/portfolio/print/
+Redirect 301 /weather https://duckduckgo.com/?q=berlin+weather&t=hq&ia=weather
+Redirect 301 /list https://docs.google.com/document/edit?id=15LDT24aw8Pvv-lBOTcxWEFG9Yb4XVIpq5soehgTVLmU
+Redirect 301 /storyideas https://docs.google.com/Doc?docid=0AZoHJsAmT2paZDg3eHFjNF8yNmN6NTRzN2di&hl=en
+Redirect 301 /employers https://docs.google.com/Doc?docid=0AWVyeKtBTdGFZGc0NGgyNWZfOWhmNHpnc2hy&hl=en
+Redirect 301 /projects https://docs.google.com/Doc?docid=0AWVyeKtBTdGFZGc0NGgyNWZfMTVnanYyODlobg&hl=en
+Redirect 301 /weekly http://weblogs.baltimoresun.com/health/fitness/weekend/weekly_roundups/
+Redirect 301 /bigraces https://docs.google.com/document/d/19Q7e0nb-1ZqcbuynknMW1QwuMbwjnHpZCWiCqU7iuwo/edit?hl=en
+Redirect 301 /weeklydoc https://docs.google.com/document/pub?id=1XyG_TMNeDXrCl9JVLk7JnBL_f6s4Q3FYZFHmsFrS2SI
+Redirect 301 /topic https://petscan.wmflabs.org/
+Redirect 301 /home https://docs.google.com/document/pub?id=1PjGi7tg5FYuGbPpxFnaGjtMrO6K-OpWZiwyl8eQ4EMw
+#Redirect 301 /work https://docs.google.com/document/pub?id=1qm_Swx7TmWk7DIuSen8W86ezRvXDDTAmHWl-ec76LME
+Redirect 301 /work https://docs.google.com/document/d/1jkoSv8s8VE2zWPoRBXm0RT8EbYq8ua-T7V9sc4YnwEo/pub
+Redirect 301 /priorities https://docs.google.com/document/d/1VKYFEFLQ0ymLv8Miz5-tRZHMwaGAiAP1D9OXjXtas1o/edit
+Redirect 301 /fernsehen https://docs.google.com/document/d/1etHaz7zl4Yq8ZHf0CPSFxXQtHOpCoYHsmC6n0lhQGXg/edit
+Redirect 301 /conferences https://docs.google.com/spreadsheet/ccc?key=0AmVyeKtBTdGFdFY2QTFlR2FSR3RtcFp3WHkxdW55amc#gid=0
+Redirect 301 /seasonmusic https://docs.google.com/spreadsheets/d/1T01ycbI3QodVDCGGbDHHHfGy1Bj9JqmdJzbyMVvoLsE/edit#gid=0
+Redirect 301 /seasons https://docs.google.com/spreadsheets/d/1T01ycbI3QodVDCGGbDHHHfGy1Bj9JqmdJzbyMVvoLsE/edit#gid=0
+Redirect 301 /repeating https://docs.google.com/document/d/1tTWEyAu1kUkNk4-9rs2KVeghSx0xIWc6FAjB8C3o0IQ/edit
+Redirect 301 /requests https://docs.google.com/document/d/1zAwKDnbpv1ARLktVbXZowF86Anb0uh3dgCNAVl38luY/edit
+Redirect 301 /books https://docs.google.com/document/d/1Rg0-KTZfqc3_uIg7zMQaSAJeDWDyA07fjE4M-Hy-9J4/edit
+Redirect 301 /czech https://docs.google.com/document/d/1kD2pW-4JRbdaMqOSpTaLVXwxmz9rEoF-HWu34LYiXeU/edit
+Redirect 301 /redirects https://docs.google.com/document/d/1KO64SfIDU5jljkz6uP9l4-LglbXSycmfVGQs5RomrOw/edit
+Redirect 301 /blogideas https://docs.google.com/document/d/1--E9YS4pPjN72ckXrdEGkFyWau37pDizb1Eslv1sPA4/edit
+Redirect 301 /sprints https://docs.google.com/document/d/1ePyteNwvFrHkJ_Gq-dwyhfXh4FNpSl9QjAAO56ZALyU/edit
+Redirect 301 /codereading https://docs.google.com/document/d/1UglOTzF4VYEoBLFdek-5wJ_F2FrgSRMzuvdSw4ai0M0/edit
+Redirect 301 /hr https://exozet.personio.de/login/index
+Redirect 301 /git https://www.github.com/patrickmaynard
+Redirect 301 /fiction https://drive.google.com/drive/folders/0B2VyeKtBTdGFV0tUM1NOYUctTW8
+Redirect 301 /buildforwork https://docs.google.com/document/d/1POa0RemyuKKwokkPhIki8z5WBAMFx7Z5HdbfSOOvgk8/edit
+Redirect 301 /li https://docs.google.com/document/d/110D7UYqh62kzXOn7o352BbXXTbV3rgKef5mKQw2FBY8/edit
+Redirect 301 /traits https://docs.google.com/document/d/1yFkCR5ozlkET3NdLikkxugrADzEOFWdWDsNuGp8hePQ/edit
+Redirect 301 /workwishlist https://docs.google.com/document/d/1-U72BUm2Rsvxe0XODpTFv9l_SL8isRMnHSOWpiqFo3k/edit
+Redirect 301 /news https://news.google.com/my/searches?hl=en-US&gl=US&ceid=US%3Aen
+#Redirect 301 /ub http://patrickmaynard.com/start.html
+
+Redirect gone /start.html
+Errordocument 410 default
+
+# For security reasons, Option all cannot be overridden.
+#Options All -Indexes
+Options ExecCGI Includes IncludesNOEXEC SymLinksIfOwnerMatch -Indexes
+RewriteEngine On
