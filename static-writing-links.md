@@ -18,11 +18,11 @@ https://this.org/2017/08/28/should-canadians-live-on-former-industrial-sites/
 
 http://www.baltimoremagazine.com/2016/9/27/eight-hours-on-baltimores-lone-subway-line
 
-http://www.baltimoresun.com/news/maryland/bs-md-sun-investigates-military-deals-20151017-story.html
+https://web.archive.org/web/20171114052442/http://www.baltimoresun.com/news/maryland/bs-md-sun-investigates-military-deals-20151017-story.html
 
-http://www.baltimoresun.com/news/maryland/sun-investigates/bs-md-sun-investigates-bpd-equipment-20150523-story.html#nt=outfit
+https://web.archive.org/web/20171114052448/http://www.baltimoresun.com/news/maryland/sun-investigates/bs-md-sun-investigates-bpd-equipment-20150523-story.html
 
-http://www.baltimoresun.com/news/maryland/sun-investigates/bs-md-state-compensation-20150404-story.html
+https://web.archive.org/web/20171114052444/http://www.baltimoresun.com/news/maryland/sun-investigates/bs-md-state-compensation-20150404-story.html
 
 https://web.archive.org/web/20160821172307/http://www.baltimoresun.com/news/maryland/crime/bal-baltimore-county-police-call-data-is-up-20141027-story.html
 
