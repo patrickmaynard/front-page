@@ -10,6 +10,8 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://truthout.org/articles/us-drone-assassinations-continue-despite-german-effort-to-restrict-them/
+
 https://www.vice.com/en_ca/article/evy5ej/european-billboards-call-out-canadas-environmental-record
 
 https://www.metrotimes.com/detroit/grosse-ile-uses-cameras-to-track-vehicle-locations-and-its-not-alone/Content?oid=19584612
