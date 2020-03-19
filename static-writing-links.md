@@ -140,7 +140,7 @@ Additional links (including some dead links and non-authored stories):
 
 ====
 
-bgfalconmedia.com/search/?sd=desc&l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=%22patrick+maynard%22
+https://www.bgfalconmedia.com/search/?sd=desc&l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=%22patrick+maynard%22
 
 http://www.baltimoresun.com/bal-patrick-maynard-bio-staff.html?page=39&
 
