@@ -10,6 +10,8 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://www.washingtonexaminer.com/opinion/to-help-workers-should-we-give-a-universal-basic-income-or-try-the-german-kurzarbeitergeld
+
 https://truthout.org/articles/us-drone-assassinations-continue-despite-german-effort-to-restrict-them/
 
 https://www.vice.com/en_ca/article/evy5ej/european-billboards-call-out-canadas-environmental-record
