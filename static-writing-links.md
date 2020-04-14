@@ -10,6 +10,8 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://berlinspectator.com/2020/04/14/patrick-maynard-to-buffer-a-catastrophe-germany-should-embrace-a-ubi/
+
 https://www.washingtonexaminer.com/opinion/to-help-workers-should-we-give-a-universal-basic-income-or-try-the-german-kurzarbeitergeld
 
 https://truthout.org/articles/us-drone-assassinations-continue-despite-german-effort-to-restrict-them/
