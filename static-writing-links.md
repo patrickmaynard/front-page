@@ -10,6 +10,10 @@ That could be useful for scraping or such at some future time.
 
 ====
 
+https://thegrayzone.com/2020/07/21/state-dept-transparency-international-silent-jailed-julian-assange/
+
+https://truthout.org/articles/worker-run-news-outlets-are-good-news-for-the-labor-movement/
+
 https://berlinspectator.com/2020/04/14/patrick-maynard-to-buffer-a-catastrophe-germany-should-embrace-a-ubi/
 
 https://www.washingtonexaminer.com/opinion/to-help-workers-should-we-give-a-universal-basic-income-or-try-the-german-kurzarbeitergeld
