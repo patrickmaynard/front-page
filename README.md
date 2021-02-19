@@ -1,6 +1,8 @@
 # front-page
 
-How to download, edit, rebuild and push to master
+This is my old front page. I disabled it in favor of a simpler page, in order to give a cleaner entrance to my site, emphasizing my two areas of concentration: Code and journalism.
+
+## How to download, edit, rebuild and push to master
 
 git clone https://github.com/patrickmaynard/front-page.git
 
